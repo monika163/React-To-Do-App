@@ -1,13 +1,6 @@
+# To Do List App Using React Js
 
-
-
-
-
-
-# Using Html, Css, Bootsrap, Material UI, React, Redux
-
-Check the demo hosted on github https://monika163.github.io/ReactToDoApp/
-
+Deployed link : https://monika163.github.io/ReactToDoApp/
 
 To Do List
 ![Image](https://github.com/user-attachments/assets/f290bd12-3dad-4ae9-a1ee-0003b8679cfd)
@@ -20,3 +13,9 @@ Edit
 
 Delete
 ![Image](https://github.com/user-attachments/assets/1301ac50-cd1e-4ab2-bdf5-56b184bb3942)
+
+## Author
+
+- Portfolio: [monika163](----)
+- Github: [monika163](https://github.com/monika163)
+- Linkedin: [monika163](https://www.linkedin.com/in/monika-dewangan-78a427149/)
